@@ -5,3 +5,5 @@ This project required students to conduct a case study using various datasets pr
 Attached are the following: 
 * The excel model I created to process the datasets which allowed the users to make an informed decision about their car fleet.
 * PowerPoint presentation slide deck that provides analysis of the data and provices business solutions.
+
+My first business strategy had the company add more of the same profitable vehicles to their fleet and while the other strategy constited of reducing costs by removing least performing car makes from the fleet.
